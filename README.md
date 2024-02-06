@@ -31,7 +31,7 @@ You can choose to write your own local server or edit the one provided below as 
 ## Steps To Use
 1. Put all the requests you want to write the responses for, under this collection.
  
-2. Clone the following repository to your machine - https://github.com/sivcan/ResponseToFile-Postman or use the following command - `git clone https://github.com/divyang-patel/WritePostmanResponseToFile`
+2. Clone the following repository to your machine - https://github.com/divyang-patel/WritePostmanResponseToFile or use the following command - `git clone https://github.com/divyang-patel/WritePostmanResponseToFile`
 
 3. Navigate into the directory and install the dependencies. Use the following command: `npm i` 
 
